@@ -1,0 +1,25 @@
+Sorting Algorithm,Data order,Data size,Running time,Comparisons
+Shaker Sort,Randomized,10000,0.171863,66920546
+Shaker Sort,Nearly sorted,10000,0.000642,219726
+Shaker Sort,Sorted,10000,0.000009,20002
+Shaker Sort,Reversed,10000,0.272099,100005001
+Shaker Sort,Randomized,30000,1.839153,602416029
+Shaker Sort,Nearly sorted,30000,0.001529,603170
+Shaker Sort,Sorted,30000,0.000018,60002
+Shaker Sort,Reversed,30000,2.282372,900015001
+Shaker Sort,Randomized,50000,4.931504,1668740213
+Shaker Sort,Nearly sorted,50000,0.001876,873634
+Shaker Sort,Sorted,50000,0.000045,100002
+Shaker Sort,Reversed,50000,6.401149,2500025001
+Shaker Sort,Randomized,100000,19.697048,6684229390
+Shaker Sort,Nearly sorted,100000,0.004775,1970942
+Shaker Sort,Sorted,100000,0.000051,200002
+Shaker Sort,Reversed,100000,25.308407,10000050001
+Shaker Sort,Randomized,300000,178.067304,59984439772
+Shaker Sort,Nearly sorted,300000,0.009081,4527181
+Shaker Sort,Sorted,300000,0.00029,600002
+Shaker Sort,Reversed,300000,228.169022,90000150001
+Shaker Sort,Randomized,500000,488.071363,166525795318
+Shaker Sort,Nearly sorted,500000,0.017031,8481121
+Shaker Sort,Sorted,500000,0.000275,1000002
+Shaker Sort,Reversed,500000,636.197357,250000250001

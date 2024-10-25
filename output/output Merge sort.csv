@@ -1,0 +1,25 @@
+Sorting Algorithm,Data order,Data size,Running time,Comparisons
+Merge Sort,Randomized,10000,0.002595,337226
+Merge Sort,Nearly sorted,10000,0.002071,337226
+Merge Sort,Sorted,10000,0.001956,337226
+Merge Sort,Reversed,10000,0.012991,337226
+Merge Sort,Randomized,30000,0.010865,1104458
+Merge Sort,Nearly sorted,30000,0.008722,1104458
+Merge Sort,Sorted,30000,0.009272,1104458
+Merge Sort,Reversed,30000,0.009695,1104458
+Merge Sort,Randomized,50000,0.016164,1918922
+Merge Sort,Nearly sorted,50000,0.010717,1918922
+Merge Sort,Sorted,50000,0.010570,1918922
+Merge Sort,Reversed,50000,0.007793,1918922
+Merge Sort,Randomized,100000,0.024891,4037850
+Merge Sort,Nearly sorted,100000,0.018788,4037850
+Merge Sort,Sorted,100000,0.018953,4037850
+Merge Sort,Reversed,100000,0.020580,4037850
+Merge Sort,Randomized,300000,0.084916,13051418
+Merge Sort,Nearly sorted,300000,0.053684,13051418
+Merge Sort,Sorted,300000,0.049384,13051418
+Merge Sort,Reversed,300000,0.052655,13051418
+Merge Sort,Randomized,500000,0.120191,22451418
+Merge Sort,Nearly sorted,500000,0.092012,22451418
+Merge Sort,Sorted,500000,0.086480,22451418
+Merge Sort,Reversed,500000,0.090605,22451418

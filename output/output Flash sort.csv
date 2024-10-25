@@ -1,0 +1,25 @@
+Sorting Algorithm,Data order,Data size,Running time,Comparisons
+Flash Sort,Randomized,10000,0.000189,98814
+Flash Sort,Nearly sorted,10000,0.000135,127968
+Flash Sort,Sorted,10000,0.000149,127992
+Flash Sort,Reversed,10000,0.000146,110501
+Flash Sort,Randomized,30000,0.000616,301965
+Flash Sort,Nearly sorted,30000,0.000447,383962
+Flash Sort,Sorted,30000,0.000379,383992
+Flash Sort,Reversed,30000,0.000414,331501
+Flash Sort,Randomized,50000,0.001115,479127
+Flash Sort,Nearly sorted,50000,0.000754,639962
+Flash Sort,Sorted,50000,0.000693,639992
+Flash Sort,Reversed,50000,0.000698,552501
+Flash Sort,Randomized,100000,0.002575,1019156
+Flash Sort,Nearly sorted,100000,0.001389,1279962
+Flash Sort,Sorted,100000,0.001288,1279992
+Flash Sort,Reversed,100000,0.001361,1105001
+Flash Sort,Randomized,300000,0.025662,3047744
+Flash Sort,Nearly sorted,300000,0.006618,3839958
+Flash Sort,Sorted,300000,0.004523,3839992
+Flash Sort,Reversed,300000,0.003944,3315001
+Flash Sort,Randomized,500000,0.064803,4843142
+Flash Sort,Nearly sorted,500000,0.008847,6399962
+Flash Sort,Sorted,500000,0.007827,6399992
+Flash Sort,Reversed,500000,0.006825,5525001

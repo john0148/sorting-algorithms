@@ -1,0 +1,25 @@
+Sorting Algorithm,Data order,Data size,Running time,Comparisons
+Radix Sort,Randomized,10000,0.000373,140058
+Radix Sort,Nearly sorted,10000,0.000359,140058
+Radix Sort,Sorted,10000,0.000375,140058
+Radix Sort,Reversed,10000,0.000531,140058
+Radix Sort,Randomized,30000,0.001454,510072
+Radix Sort,Nearly sorted,30000,0.001417,510072
+Radix Sort,Sorted,30000,0.001347,510072
+Radix Sort,Reversed,30000,0.001358,510072
+Radix Sort,Randomized,50000,0.002347,850072
+Radix Sort,Nearly sorted,50000,0.002638,850072
+Radix Sort,Sorted,50000,0.002502,850072
+Radix Sort,Reversed,50000,0.002436,850072
+Radix Sort,Randomized,100000,0.004756,1700072
+Radix Sort,Nearly sorted,100000,0.005243,1700072
+Radix Sort,Sorted,100000,0.005002,1700072
+Radix Sort,Reversed,100000,0.004793,1700072
+Radix Sort,Randomized,300000,0.018771,6000086
+Radix Sort,Nearly sorted,300000,0.038529,6000086
+Radix Sort,Sorted,300000,0.026899,6000086
+Radix Sort,Reversed,300000,0.018611,6000086
+Radix Sort,Randomized,500000,0.031736,10000086
+Radix Sort,Nearly sorted,500000,0.032017,10000086
+Radix Sort,Sorted,500000,0.034609,10000086
+Radix Sort,Reversed,500000,0.030937,10000086

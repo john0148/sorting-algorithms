@@ -1,0 +1,25 @@
+Sorting Algorithm,Data order,Data size,Running time,Comparisons
+Shell Sort,Randomized,10000,0.000808,377766
+Shell Sort,Nearly sorted,10000,0.000176,268315
+Shell Sort,Sorted,10000,0.000152,240037
+Shell Sort,Reversed,10000,0.000219,302597
+Shell Sort,Randomized,30000,0.002746,1368252
+Shell Sort,Nearly sorted,30000,0.000936,855581
+Shell Sort,Sorted,30000,0.000720,780043
+Shell Sort,Reversed,30000,0.000495,987035
+Shell Sort,Randomized,50000,0.004853,2677405
+Shell Sort,Nearly sorted,50000,0.001915,1540485
+Shell Sort,Sorted,50000,0.001063,1400043
+Shell Sort,Reversed,50000,0.000917,1797323
+Shell Sort,Randomized,100000,0.009871,5792133
+Shell Sort,Nearly sorted,100000,0.003283,3331673
+Shell Sort,Sorted,100000,0.002463,3000045
+Shell Sort,Reversed,100000,0.003104,3844605
+Shell Sort,Randomized,300000,0.040638,20719986
+Shell Sort,Nearly sorted,300000,0.009514,10868167
+Shell Sort,Sorted,300000,0.010089,10200053
+Shell Sort,Reversed,300000,0.010339,12700933
+Shell Sort,Randomized,500000,0.069043,38332168
+Shell Sort,Nearly sorted,500000,0.012702,18126041
+Shell Sort,Sorted,500000,0.014633,17000051
+Shell Sort,Reversed,500000,0.017642,21428803

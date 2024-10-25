@@ -1,0 +1,25 @@
+Sorting Algorithm,Data order,Data size,Running time,Comparisons
+Insertion Sort,Randomized,10000,0.008281,50096183
+Insertion Sort,Nearly sorted,10000,0.000047,219622
+Insertion Sort,Sorted,10000,0.000008,29998
+Insertion Sort,Reversed,10000,0.018961,100009999
+Insertion Sort,Randomized,30000,0.102881,452071438
+Insertion Sort,Nearly sorted,30000,0.000188,595570
+Insertion Sort,Sorted,30000,0.000047,89998
+Insertion Sort,Reversed,30000,0.273664,900029999
+Insertion Sort,Randomized,50000,0.303055,1250497473
+Insertion Sort,Nearly sorted,50000,0.000187,858990
+Insertion Sort,Sorted,50000,0.000068,149998
+Insertion Sort,Reversed,50000,0.613323,2500049999
+Insertion Sort,Randomized,100000,1.056275,5019075369
+Insertion Sort,Nearly sorted,100000,0.000405,1975946
+Insertion Sort,Sorted,100000,0.000101,299998
+Insertion Sort,Reversed,100000,2.332139,10000099999
+Insertion Sort,Randomized,300000,11.057909,44979677317
+Insertion Sort,Nearly sorted,300000,0.00099,4436926
+Insertion Sort,Sorted,300000,0.000235,899998
+Insertion Sort,Reversed,300000,21.29731,90000299999
+Insertion Sort,Randomized,500000,26.255353,124933091986
+Insertion Sort,Nearly sorted,500000,0.001734,8122834
+Insertion Sort,Sorted,500000,0.000382,1499998
+Insertion Sort,Reversed,500000,53.008925,250000499999

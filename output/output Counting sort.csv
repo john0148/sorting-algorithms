@@ -1,0 +1,25 @@
+Sorting Algorithm,Data order,Data size,Running time,Comparisons
+Counting Sort,Randomized,10000,0.000080,50004
+Counting Sort,Nearly sorted,10000,0.000057,50004
+Counting Sort,Sorted,10000,0.000054,50004
+Counting Sort,Reversed,10000,0.000066,50004
+Counting Sort,Randomized,30000,0.000225,150004
+Counting Sort,Nearly sorted,30000,0.000170,150004
+Counting Sort,Sorted,30000,0.000191,150004
+Counting Sort,Reversed,30000,0.000187,150004
+Counting Sort,Randomized,50000,0.000373,250004
+Counting Sort,Nearly sorted,50000,0.000316,250004
+Counting Sort,Sorted,50000,0.000337,250004
+Counting Sort,Reversed,50000,0.000353,250004
+Counting Sort,Randomized,100000,0.000837,500004
+Counting Sort,Nearly sorted,100000,0.000506,500004
+Counting Sort,Sorted,100000,0.000273,500004
+Counting Sort,Reversed,100000,0.000307,500004
+Counting Sort,Randomized,300000,0.003766,1500004
+Counting Sort,Nearly sorted,300000,0.001758,1500004
+Counting Sort,Sorted,300000,0.001717,1500004
+Counting Sort,Reversed,300000,0.001323,1500004
+Counting Sort,Randomized,500000,0.009447,2500004
+Counting Sort,Nearly sorted,500000,0.002938,2500004
+Counting Sort,Sorted,500000,0.003139,2500004
+Counting Sort,Reversed,500000,0.002726,2500004

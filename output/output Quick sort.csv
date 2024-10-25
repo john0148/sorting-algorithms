@@ -1,0 +1,25 @@
+Sorting Algorithm,Data order,Data size,Running time,Comparisons
+Quick Sort,Randomized,10000,0.000557,268649
+Quick Sort,Nearly sorted,10000,0.000053,154999
+Quick Sort,Sorted,10000,0.000077,154959
+Quick Sort,Reversed,10000,0.000080,164975
+Quick Sort,Randomized,30000,0.001663,918072
+Quick Sort,Nearly sorted,30000,0.000165,501973
+Quick Sort,Sorted,30000,0.000258,501929
+Quick Sort,Reversed,30000,0.000224,531939
+Quick Sort,Randomized,50000,0.002842,1571763
+Quick Sort,Nearly sorted,50000,0.000491,913898
+Quick Sort,Sorted,50000,0.000519,913850
+Quick Sort,Reversed,50000,0.000512,963861
+Quick Sort,Randomized,100000,0.006248,3302209
+Quick Sort,Nearly sorted,100000,0.000802,1927735
+Quick Sort,Sorted,100000,0.001167,1927691
+Quick Sort,Reversed,100000,0.001449,2027703
+Quick Sort,Randomized,300000,0.022458,10782282
+Quick Sort,Nearly sorted,300000,0.003312,6058260
+Quick Sort,Sorted,300000,0.003570,6058228
+Quick Sort,Reversed,300000,0.003658,6358249
+Quick Sort,Randomized,500000,0.040917,19032583
+Quick Sort,Nearly sorted,500000,0.005840,10310769
+Quick Sort,Sorted,500000,0.006007,10310733
+Quick Sort,Reversed,500000,0.005841,10810747

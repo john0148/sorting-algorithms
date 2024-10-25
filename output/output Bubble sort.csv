@@ -1,0 +1,25 @@
+Sorting Algorithm,Data order,Data size,Running time,Comparisons
+Bubble Sort,Randomized,10000,0.176124,100009999
+Bubble Sort,Nearly sorted,10000,0.07171,100009999
+Bubble Sort,Sorted,10000,0.082841,100009999
+Bubble Sort,Reversed,10000,0.27028,100009999
+Bubble Sort,Randomized,30000,2.043048,900029999
+Bubble Sort,Nearly sorted,30000,0.352158,900029999
+Bubble Sort,Sorted,30000,0.394129,900029999
+Bubble Sort,Reversed,30000,2.32059,900029999
+Bubble Sort,Randomized,50000,5.878319,2500049999
+Bubble Sort,Nearly sorted,50000,1.44564,2500049999
+Bubble Sort,Sorted,50000,1.424215,2500049999
+Bubble Sort,Reversed,50000,6.411715,2500049999
+Bubble Sort,Randomized,100000,24.056593,10000099999
+Bubble Sort,Nearly sorted,100000,4.087059,10000099999
+Bubble Sort,Sorted,100000,4.290762,10000099999
+Bubble Sort,Reversed,100000,25.567712,10000099999
+Bubble Sort,Randomized,300000,217.002258,90000299999
+Bubble Sort,Nearly sorted,300000,47.486327,90000299999
+Bubble Sort,Sorted,300000,46.841525,90000299999
+Bubble Sort,Reversed,300000,229.885764,90000299999
+Bubble Sort,Randomized,500000,945.264584,250000499999
+Bubble Sort,Nearly sorted,500000,126.675386,250000499999
+Bubble Sort,Sorted,500000,99.141406,250000499999
+Bubble Sort,Reversed,500000,640.168157,250000499999

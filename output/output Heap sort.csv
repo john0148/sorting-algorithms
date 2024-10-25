@@ -1,0 +1,25 @@
+Sorting Algorithm,Data order,Data size,Running time,Comparisons
+Heap Sort,Randomized,10000,0.000503,637509
+Heap Sort,Nearly sorted,10000,0.000402,670053
+Heap Sort,Sorted,10000,0.000432,670333
+Heap Sort,Reversed,10000,0.000396,606775
+Heap Sort,Randomized,30000,0.001685,2150687
+Heap Sort,Nearly sorted,30000,0.001468,2236639
+Heap Sort,Sorted,30000,0.001563,2236652
+Heap Sort,Reversed,30000,0.001448,2063328
+Heap Sort,Randomized,50000,0.003304,3772134
+Heap Sort,Nearly sorted,50000,0.004972,3925035
+Heap Sort,Sorted,50000,0.002734,3925355
+Heap Sort,Reversed,50000,0.002786,3612728
+Heap Sort,Randomized,100000,0.007025,8044622
+Heap Sort,Nearly sorted,100000,0.005436,8364808
+Heap Sort,Sorted,100000,0.006232,8365084
+Heap Sort,Reversed,100000,0.005477,7718947
+Heap Sort,Randomized,300000,0.025868,26489266
+Heap Sort,Nearly sorted,300000,0.019737,27416474
+Heap Sort,Sorted,300000,0.020268,27413234
+Heap Sort,Reversed,300000,0.019738,25569383
+Heap Sort,Randomized,500000,0.059341,45973374
+Heap Sort,Nearly sorted,500000,0.035303,47421973
+Heap Sort,Sorted,500000,0.032788,47404890
+Heap Sort,Reversed,500000,0.031704,44483352
